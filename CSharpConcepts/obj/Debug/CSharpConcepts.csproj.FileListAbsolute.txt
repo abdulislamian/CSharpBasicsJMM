@@ -1,0 +1,8 @@
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\bin\Debug\CSharpConcepts.exe.config
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\bin\Debug\CSharpConcepts.exe
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\bin\Debug\CSharpConcepts.pdb
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\obj\Debug\CSharpConcepts.exe
+C:\Users\abdul\source\repos\CSharpConcepts\CSharpConcepts\obj\Debug\CSharpConcepts.pdb
